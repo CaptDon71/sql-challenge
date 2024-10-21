@@ -1,5 +1,10 @@
-Overview
-This challenge includes relational data managment which contains employee information, including their departments and roles. This README provides details on the project structure and file locations.
+# Overview
+
+This project involves managing relational data for employees, including their departments and roles. Below is a breakdown of the project structure and file locations.
+
+## Project Structure
+
+
 
 /EmployeeSQL
 ├── ERD_IMAGE.png              # ERD image
