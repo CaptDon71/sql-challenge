@@ -3,9 +3,6 @@
 This project involves managing relational data for employees, including their departments and roles. Below is a breakdown of the project structure and file locations.
 
 ## Project Structure
-
-
-
 /EmployeeSQL
 ├── ERD_IMAGE.png              # ERD image
 ├── table_schemata.sql         # SQL for table schemata
@@ -42,3 +39,15 @@ This project involves managing relational data for employees, including their de
 │   └── salaries.csv  #  Supporting CSV Data File
 │   └── titles.csv  #  Supporting CSV Data File
 └── README.md                       # This README file
+
+
+## File Descriptions
+
+- **ERD_IMAGE.png**: Visual representation of the database structure.
+- **table_schemata.sql**: SQL script defining the table schemas.
+- **Q1-Q8 SQL query files**: Each file contains SQL code for specific queries, focusing on different aspects of employee and department data.
+- **/analysis-exports**: Folder containing CSV output data and visualizations for each SQL query.
+- **/data**: Folder containing supporting CSV files that feed into the SQL queries.
+
+Feel free to explore the files and run the queries to gain insights into the employee data!
+
