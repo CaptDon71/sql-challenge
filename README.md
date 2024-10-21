@@ -3,7 +3,7 @@
 This project involves managing relational data for employees, including their departments and roles. Below is a breakdown of the project structure and file locations.
 
 ## Project Structure
-/EmployeeSQL
+/EmployeeSQL  
 ├── ERD_IMAGE.png              # ERD image  
 ├── table_schemata.sql         # SQL for table schemata  
 ├── Q1_SQL-query.sql # Employee counts query  
