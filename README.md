@@ -48,6 +48,3 @@ This project involves managing relational data for employees, including their de
 - **Q1-Q8 SQL query files**: Each file contains SQL code for specific queries, focusing on different aspects of employee and department data.
 - **/analysis-exports**: Folder containing CSV output data and visualizations for each SQL query.
 - **/data**: Folder containing supporting CSV files that feed into the SQL queries.
-
-Feel free to explore the files and run the queries to gain insights into the employee data!
-
